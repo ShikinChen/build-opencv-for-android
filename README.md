@@ -1,6 +1,6 @@
 ## 编译和导入Android库
 ```
- git clone -b ritu_dev https://github.com/ShikinChen/build-opencv-for-android.git --recursive
+ git clone https://github.com/ShikinChen/build-opencv-for-android.git --recursive
 ```
 
 ## 开始编译 Android so库 
